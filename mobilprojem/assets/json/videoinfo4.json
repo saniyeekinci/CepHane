@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Organik Kimyaya Giriş",
+    "time": "23 dk",
+    "thumbnail": "assets/kimya.png",
+    "videoPath": "assets/İntegral1.mp4"
+  },
+  {
+    "title": "Alkanlar",
+    "time": "1 saat 16 dk",
+    "thumbnail": "assets/kimya.png",
+    "videoPath": "assets/İntegral2.mp4"
+  },
+  {
+    "title": "Alkenler",
+    "time": "55 dk",
+    "thumbnail": "assets/kimya.png",
+    "videoPath": "assets/İntegral1.mp4"
+  },
+  {
+    "title": "Formüller",
+    "time": "2 saat 5 dk",
+    "thumbnail": "assets/kimya.png",
+    "videoPath": "assets/İntegral2.mp4"
+  }
+ 
+]

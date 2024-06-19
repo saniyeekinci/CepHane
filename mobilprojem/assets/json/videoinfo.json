@@ -1,0 +1,27 @@
+[
+  {
+    "title": "İntegrale Giriş",
+    "time": "2 saat",
+    "thumbnail": "assets/math.png",
+    "videoPath": "assets/İntegral1.mp4"
+  },
+  {
+    "title": "Temel Kavramlar",
+    "time": "1 saat 4 dk",
+    "thumbnail": "assets/math.png",
+    "videoPath": "assets/İntegral2.mp4"
+  },
+  {
+    "title": "Belirli İntegral",
+    "time": "3 saat 2 dk",
+    "thumbnail": "assets/math.png",
+    "videoPath": "assets/İntegral1.mp4"
+  },
+  {
+    "title": "Belirsiz İntegral",
+    "time": "2 saat 55 dk",
+    "thumbnail": "assets/math.png",
+    "videoPath": "assets/İntegral2.mp4"
+  }
+ 
+]

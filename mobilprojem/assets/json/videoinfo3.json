@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Bitkiler",
+    "time": "55 dk",
+    "thumbnail": "assets/bio.png",
+    "videoPath": "assets/İntegral1.mp4"
+  },
+  {
+    "title": "Bitkilerde Solunum",
+    "time": "1 saat 23 dk",
+    "thumbnail": "assets/bio.png",
+    "videoPath": "assets/İntegral2.mp4"
+  },
+  {
+    "title": "Bitkilerde Doku",
+    "time": "2 saat 3 dk",
+    "thumbnail": "assets/bio.png",
+    "videoPath": "assets/İntegral1.mp4"
+  },
+  {
+    "title": "Bitkilerde Üreme",
+    "time": "1 saat 34 dk",
+    "thumbnail": "assets/bio.png",
+    "videoPath": "assets/İntegral2.mp4"
+  }
+ 
+]

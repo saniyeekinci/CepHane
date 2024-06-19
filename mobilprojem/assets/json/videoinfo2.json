@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Temel Kavramlar",
+    "time": "55 dk",
+    "thumbnail": "assets/geo.png",
+    "videoPath": "assets/İntegral1.mp4"
+  },
+  {
+    "title": "Çemberde Açılar",
+    "time": "1 saat 10 dk",
+    "thumbnail": "assets/geo.png",
+    "videoPath": "assets/İntegral2.mp4"
+  },
+  {
+    "title": "Çevre ve Alan",
+    "time": "2 saat",
+    "thumbnail": "assets/geo.png",
+    "videoPath": "assets/İntegral1.mp4"
+  },
+  {
+    "title": "Problem Çözümü",
+    "time": "1 saat 45 dk",
+    "thumbnail": "assets/geo.png",
+    "videoPath": "assets/İntegral2.mp4"
+  }
+ 
+]

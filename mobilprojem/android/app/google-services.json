@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163154454616",
+    "project_id": "mobilprogramlamafinal-548e7",
+    "storage_bucket": "mobilprogramlamafinal-548e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163154454616:android:a07799bb2e46786e70c22d",
+        "android_client_info": {
+          "package_name": "com.example.mobilprojem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz-BS4N-Dmv5olej3spBlf4PVD8pn99b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
