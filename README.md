@@ -46,14 +46,10 @@ Katkılarınızı memnuniyetle bekliyoruz! Lütfen önce bir issue açarak neyi 
 4. Branşınıza push edin (`git push origin ozellik/yenilik`).
 5. Bir Pull Request oluşturun.
 
-## Lisans
-
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
-
 ## İletişim
 
 Sorularınız ve önerileriniz için [GitHub Issues](https://github.com/saniyeekinci/CepHane/issues) üzerinden iletişime geçebilirsiniz.
 
----
+## Lisans
 
-CepHane ile öğrenmek artık çok daha kolay!
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
